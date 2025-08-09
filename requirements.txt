@@ -1,0 +1,6 @@
+click>=8.1
+eth-abi>=5.1
+eth-utils>=4.1
+rlp>=4.0
+eth-hash[pycryptodome]>=0.5.2
+pycryptodome>=3.20
